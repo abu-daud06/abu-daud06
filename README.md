@@ -1,7 +1,5 @@
 # Hi there 👋
 
-<!--
-**abu-daud06/abu-daud06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to knowing me::
 
@@ -13,4 +11,4 @@ Here are some ideas to knowing me::
 - 📫 How to reach me: dn.k.502@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love cooking
--->
+
