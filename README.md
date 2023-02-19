@@ -9,5 +9,5 @@ Here are some ideas to knowing me::
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything
 - 📫 How to reach me: dn.k.502@gmail.com
-- ⚡ Fun fact: I love reading
+- ⚡ Fun fact: I love cooking
 
